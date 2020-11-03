@@ -1,0 +1,39 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "beautifulsoup4 >=4.9.3,<4.9.4.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\projs\\anaconda3\\pkgs\\bs4-4.9.3-0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "bs4-4.9.3-0.conda",
+  "legacy_bz2_md5": "10f07f5d296fd93db040311cd274adde",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\projs\\anaconda3\\pkgs\\bs4-4.9.3-0",
+    "type": 1
+  },
+  "md5": "2632274bada7533e928aea1752ae0a3a",
+  "name": "bs4",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\projs\\anaconda3\\pkgs\\bs4-4.9.3-0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "bs4",
+  "sha256": "4702452f3e8bf32df3e9cb8080a2a0037e5ba8b93662c9632ad71987672e7bb8",
+  "size": 5386,
+  "subdir": "noarch",
+  "timestamp": 1601924144200,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/bs4-4.9.3-0.conda",
+  "version": "4.9.3"
+}

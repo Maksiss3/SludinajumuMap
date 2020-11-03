@@ -1,0 +1,2601 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\projs\\anaconda3\\pkgs\\unidecode-1.1.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/LICENSE",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/METADATA",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/RECORD",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/WHEEL",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/entry_points.txt",
+    "Lib/site-packages/Unidecode-1.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/unidecode/__init__.py",
+    "Lib/site-packages/unidecode/__main__.py",
+    "Lib/site-packages/unidecode/util.py",
+    "Lib/site-packages/unidecode/x000.py",
+    "Lib/site-packages/unidecode/x001.py",
+    "Lib/site-packages/unidecode/x002.py",
+    "Lib/site-packages/unidecode/x003.py",
+    "Lib/site-packages/unidecode/x004.py",
+    "Lib/site-packages/unidecode/x005.py",
+    "Lib/site-packages/unidecode/x006.py",
+    "Lib/site-packages/unidecode/x007.py",
+    "Lib/site-packages/unidecode/x009.py",
+    "Lib/site-packages/unidecode/x00a.py",
+    "Lib/site-packages/unidecode/x00b.py",
+    "Lib/site-packages/unidecode/x00c.py",
+    "Lib/site-packages/unidecode/x00d.py",
+    "Lib/site-packages/unidecode/x00e.py",
+    "Lib/site-packages/unidecode/x00f.py",
+    "Lib/site-packages/unidecode/x010.py",
+    "Lib/site-packages/unidecode/x011.py",
+    "Lib/site-packages/unidecode/x012.py",
+    "Lib/site-packages/unidecode/x013.py",
+    "Lib/site-packages/unidecode/x014.py",
+    "Lib/site-packages/unidecode/x015.py",
+    "Lib/site-packages/unidecode/x016.py",
+    "Lib/site-packages/unidecode/x017.py",
+    "Lib/site-packages/unidecode/x018.py",
+    "Lib/site-packages/unidecode/x01d.py",
+    "Lib/site-packages/unidecode/x01e.py",
+    "Lib/site-packages/unidecode/x01f.py",
+    "Lib/site-packages/unidecode/x020.py",
+    "Lib/site-packages/unidecode/x021.py",
+    "Lib/site-packages/unidecode/x022.py",
+    "Lib/site-packages/unidecode/x023.py",
+    "Lib/site-packages/unidecode/x024.py",
+    "Lib/site-packages/unidecode/x025.py",
+    "Lib/site-packages/unidecode/x026.py",
+    "Lib/site-packages/unidecode/x027.py",
+    "Lib/site-packages/unidecode/x028.py",
+    "Lib/site-packages/unidecode/x029.py",
+    "Lib/site-packages/unidecode/x02a.py",
+    "Lib/site-packages/unidecode/x02c.py",
+    "Lib/site-packages/unidecode/x02e.py",
+    "Lib/site-packages/unidecode/x02f.py",
+    "Lib/site-packages/unidecode/x030.py",
+    "Lib/site-packages/unidecode/x031.py",
+    "Lib/site-packages/unidecode/x032.py",
+    "Lib/site-packages/unidecode/x033.py",
+    "Lib/site-packages/unidecode/x04d.py",
+    "Lib/site-packages/unidecode/x04e.py",
+    "Lib/site-packages/unidecode/x04f.py",
+    "Lib/site-packages/unidecode/x050.py",
+    "Lib/site-packages/unidecode/x051.py",
+    "Lib/site-packages/unidecode/x052.py",
+    "Lib/site-packages/unidecode/x053.py",
+    "Lib/site-packages/unidecode/x054.py",
+    "Lib/site-packages/unidecode/x055.py",
+    "Lib/site-packages/unidecode/x056.py",
+    "Lib/site-packages/unidecode/x057.py",
+    "Lib/site-packages/unidecode/x058.py",
+    "Lib/site-packages/unidecode/x059.py",
+    "Lib/site-packages/unidecode/x05a.py",
+    "Lib/site-packages/unidecode/x05b.py",
+    "Lib/site-packages/unidecode/x05c.py",
+    "Lib/site-packages/unidecode/x05d.py",
+    "Lib/site-packages/unidecode/x05e.py",
+    "Lib/site-packages/unidecode/x05f.py",
+    "Lib/site-packages/unidecode/x060.py",
+    "Lib/site-packages/unidecode/x061.py",
+    "Lib/site-packages/unidecode/x062.py",
+    "Lib/site-packages/unidecode/x063.py",
+    "Lib/site-packages/unidecode/x064.py",
+    "Lib/site-packages/unidecode/x065.py",
+    "Lib/site-packages/unidecode/x066.py",
+    "Lib/site-packages/unidecode/x067.py",
+    "Lib/site-packages/unidecode/x068.py",
+    "Lib/site-packages/unidecode/x069.py",
+    "Lib/site-packages/unidecode/x06a.py",
+    "Lib/site-packages/unidecode/x06b.py",
+    "Lib/site-packages/unidecode/x06c.py",
+    "Lib/site-packages/unidecode/x06d.py",
+    "Lib/site-packages/unidecode/x06e.py",
+    "Lib/site-packages/unidecode/x06f.py",
+    "Lib/site-packages/unidecode/x070.py",
+    "Lib/site-packages/unidecode/x071.py",
+    "Lib/site-packages/unidecode/x072.py",
+    "Lib/site-packages/unidecode/x073.py",
+    "Lib/site-packages/unidecode/x074.py",
+    "Lib/site-packages/unidecode/x075.py",
+    "Lib/site-packages/unidecode/x076.py",
+    "Lib/site-packages/unidecode/x077.py",
+    "Lib/site-packages/unidecode/x078.py",
+    "Lib/site-packages/unidecode/x079.py",
+    "Lib/site-packages/unidecode/x07a.py",
+    "Lib/site-packages/unidecode/x07b.py",
+    "Lib/site-packages/unidecode/x07c.py",
+    "Lib/site-packages/unidecode/x07d.py",
+    "Lib/site-packages/unidecode/x07e.py",
+    "Lib/site-packages/unidecode/x07f.py",
+    "Lib/site-packages/unidecode/x080.py",
+    "Lib/site-packages/unidecode/x081.py",
+    "Lib/site-packages/unidecode/x082.py",
+    "Lib/site-packages/unidecode/x083.py",
+    "Lib/site-packages/unidecode/x084.py",
+    "Lib/site-packages/unidecode/x085.py",
+    "Lib/site-packages/unidecode/x086.py",
+    "Lib/site-packages/unidecode/x087.py",
+    "Lib/site-packages/unidecode/x088.py",
+    "Lib/site-packages/unidecode/x089.py",
+    "Lib/site-packages/unidecode/x08a.py",
+    "Lib/site-packages/unidecode/x08b.py",
+    "Lib/site-packages/unidecode/x08c.py",
+    "Lib/site-packages/unidecode/x08d.py",
+    "Lib/site-packages/unidecode/x08e.py",
+    "Lib/site-packages/unidecode/x08f.py",
+    "Lib/site-packages/unidecode/x090.py",
+    "Lib/site-packages/unidecode/x091.py",
+    "Lib/site-packages/unidecode/x092.py",
+    "Lib/site-packages/unidecode/x093.py",
+    "Lib/site-packages/unidecode/x094.py",
+    "Lib/site-packages/unidecode/x095.py",
+    "Lib/site-packages/unidecode/x096.py",
+    "Lib/site-packages/unidecode/x097.py",
+    "Lib/site-packages/unidecode/x098.py",
+    "Lib/site-packages/unidecode/x099.py",
+    "Lib/site-packages/unidecode/x09a.py",
+    "Lib/site-packages/unidecode/x09b.py",
+    "Lib/site-packages/unidecode/x09c.py",
+    "Lib/site-packages/unidecode/x09d.py",
+    "Lib/site-packages/unidecode/x09e.py",
+    "Lib/site-packages/unidecode/x09f.py",
+    "Lib/site-packages/unidecode/x0a0.py",
+    "Lib/site-packages/unidecode/x0a1.py",
+    "Lib/site-packages/unidecode/x0a2.py",
+    "Lib/site-packages/unidecode/x0a3.py",
+    "Lib/site-packages/unidecode/x0a4.py",
+    "Lib/site-packages/unidecode/x0ac.py",
+    "Lib/site-packages/unidecode/x0ad.py",
+    "Lib/site-packages/unidecode/x0ae.py",
+    "Lib/site-packages/unidecode/x0af.py",
+    "Lib/site-packages/unidecode/x0b0.py",
+    "Lib/site-packages/unidecode/x0b1.py",
+    "Lib/site-packages/unidecode/x0b2.py",
+    "Lib/site-packages/unidecode/x0b3.py",
+    "Lib/site-packages/unidecode/x0b4.py",
+    "Lib/site-packages/unidecode/x0b5.py",
+    "Lib/site-packages/unidecode/x0b6.py",
+    "Lib/site-packages/unidecode/x0b7.py",
+    "Lib/site-packages/unidecode/x0b8.py",
+    "Lib/site-packages/unidecode/x0b9.py",
+    "Lib/site-packages/unidecode/x0ba.py",
+    "Lib/site-packages/unidecode/x0bb.py",
+    "Lib/site-packages/unidecode/x0bc.py",
+    "Lib/site-packages/unidecode/x0bd.py",
+    "Lib/site-packages/unidecode/x0be.py",
+    "Lib/site-packages/unidecode/x0bf.py",
+    "Lib/site-packages/unidecode/x0c0.py",
+    "Lib/site-packages/unidecode/x0c1.py",
+    "Lib/site-packages/unidecode/x0c2.py",
+    "Lib/site-packages/unidecode/x0c3.py",
+    "Lib/site-packages/unidecode/x0c4.py",
+    "Lib/site-packages/unidecode/x0c5.py",
+    "Lib/site-packages/unidecode/x0c6.py",
+    "Lib/site-packages/unidecode/x0c7.py",
+    "Lib/site-packages/unidecode/x0c8.py",
+    "Lib/site-packages/unidecode/x0c9.py",
+    "Lib/site-packages/unidecode/x0ca.py",
+    "Lib/site-packages/unidecode/x0cb.py",
+    "Lib/site-packages/unidecode/x0cc.py",
+    "Lib/site-packages/unidecode/x0cd.py",
+    "Lib/site-packages/unidecode/x0ce.py",
+    "Lib/site-packages/unidecode/x0cf.py",
+    "Lib/site-packages/unidecode/x0d0.py",
+    "Lib/site-packages/unidecode/x0d1.py",
+    "Lib/site-packages/unidecode/x0d2.py",
+    "Lib/site-packages/unidecode/x0d3.py",
+    "Lib/site-packages/unidecode/x0d4.py",
+    "Lib/site-packages/unidecode/x0d5.py",
+    "Lib/site-packages/unidecode/x0d6.py",
+    "Lib/site-packages/unidecode/x0d7.py",
+    "Lib/site-packages/unidecode/x0f9.py",
+    "Lib/site-packages/unidecode/x0fa.py",
+    "Lib/site-packages/unidecode/x0fb.py",
+    "Lib/site-packages/unidecode/x0fc.py",
+    "Lib/site-packages/unidecode/x0fd.py",
+    "Lib/site-packages/unidecode/x0fe.py",
+    "Lib/site-packages/unidecode/x0ff.py",
+    "Lib/site-packages/unidecode/x1d4.py",
+    "Lib/site-packages/unidecode/x1d5.py",
+    "Lib/site-packages/unidecode/x1d6.py",
+    "Lib/site-packages/unidecode/x1d7.py",
+    "Lib/site-packages/unidecode/x1f1.py",
+    ".nonadmin",
+    "Lib/site-packages/unidecode/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x000.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x001.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x002.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x003.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x004.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x005.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x006.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x007.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x009.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x00f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x010.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x011.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x012.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x013.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x014.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x015.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x016.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x017.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x018.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x01d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x01e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x01f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x020.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x021.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x022.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x023.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x024.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x025.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x026.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x027.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x028.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x029.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x02a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x02c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x02e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x02f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x030.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x031.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x032.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x033.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x04d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x04e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x04f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x050.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x051.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x052.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x053.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x054.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x055.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x056.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x057.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x058.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x059.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x05f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x060.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x061.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x062.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x063.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x064.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x065.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x066.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x067.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x068.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x069.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x06f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x070.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x071.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x072.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x073.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x074.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x075.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x076.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x077.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x078.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x079.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x07f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x080.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x081.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x082.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x083.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x084.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x085.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x086.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x087.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x088.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x089.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x08f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x090.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x091.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x092.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x093.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x094.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x095.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x096.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x097.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x098.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x099.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09a.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09b.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09c.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09d.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09e.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x09f.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0a0.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0a1.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0a2.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0a3.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0a4.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ac.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ad.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ae.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0af.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b0.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b1.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b2.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b3.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b4.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b5.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b6.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b7.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b8.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0b9.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ba.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0bb.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0bc.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0bd.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0be.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0bf.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c0.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c1.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c2.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c3.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c4.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c5.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c6.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c7.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c8.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0c9.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ca.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0cb.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0cc.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0cd.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ce.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0cf.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d0.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d1.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d2.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d3.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d4.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d5.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d6.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0d7.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0f9.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0fa.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0fb.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0fc.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0fd.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0fe.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x0ff.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x1d4.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x1d5.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x1d6.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x1d7.cpython-38.pyc",
+    "Lib/site-packages/unidecode/__pycache__/x1f1.cpython-38.pyc",
+    "Scripts/unidecode-script.py",
+    "Scripts/unidecode.exe"
+  ],
+  "fn": "unidecode-1.1.1-py_0.conda",
+  "legacy_bz2_md5": "d6fd2a6cd88a4c2e67d94c0021e48bab",
+  "license": "GPL-2.0",
+  "link": {
+    "source": "C:\\Users\\projs\\anaconda3\\pkgs\\unidecode-1.1.1-py_0",
+    "type": 1
+  },
+  "md5": "e5839c051ac75094fa166b969fc97c44",
+  "name": "unidecode",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\projs\\anaconda3\\pkgs\\unidecode-1.1.1-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "sha256_in_prefix": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "size_in_bytes": 18092
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cc90ee175c5daa3a3907271781dc5249026ad9015c6852c73de962e1640e07df",
+        "sha256_in_prefix": "cc90ee175c5daa3a3907271781dc5249026ad9015c6852c73de962e1640e07df",
+        "size_in_bytes": 10442
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "49997e87e4718fefac88ae6fc48083ed6de2ea9d2219d578ec65634527b6116c",
+        "sha256_in_prefix": "49997e87e4718fefac88ae6fc48083ed6de2ea9d2219d578ec65634527b6116c",
+        "size_in_bytes": 19309
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "22d0e9ed6e82a1225000aa9d89493399e72e82f2af5b38df37b30c2b9d86335d",
+        "sha256_in_prefix": "22d0e9ed6e82a1225000aa9d89493399e72e82f2af5b38df37b30c2b9d86335d",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "site-packages/Unidecode-1.1.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e2e60d1b6974e2cd1d9b49844263cba36ceb8cb6e12cf2947ac2ebd9d393769a",
+        "sha256_in_prefix": "e2e60d1b6974e2cd1d9b49844263cba36ceb8cb6e12cf2947ac2ebd9d393769a",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/unidecode/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "39d3d16d789afb1cf319e9421e7561ff399c1c9036b36c0fe911a870f9c28a15",
+        "sha256_in_prefix": "39d3d16d789afb1cf319e9421e7561ff399c1c9036b36c0fe911a870f9c28a15",
+        "size_in_bytes": 3094
+      },
+      {
+        "_path": "site-packages/unidecode/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "55661609c97226c761b4d310b6bc8c15b82c099b4d52c59c12e4bb64e947d497",
+        "sha256_in_prefix": "55661609c97226c761b4d310b6bc8c15b82c099b4d52c59c12e4bb64e947d497",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "site-packages/unidecode/util.py",
+        "path_type": "hardlink",
+        "sha256": "a91d1a188304c46ac55069a88df00c75b46495c5eb00fbd7a54d5ebcf5c26b88",
+        "sha256_in_prefix": "a91d1a188304c46ac55069a88df00c75b46495c5eb00fbd7a54d5ebcf5c26b88",
+        "size_in_bytes": 1782
+      },
+      {
+        "_path": "site-packages/unidecode/x000.py",
+        "path_type": "hardlink",
+        "sha256": "7714e2ecb70b4e56c5dd918693dc4f8f1f2cc7633aa8f048b366f9452d8354d6",
+        "sha256_in_prefix": "7714e2ecb70b4e56c5dd918693dc4f8f1f2cc7633aa8f048b366f9452d8354d6",
+        "size_in_bytes": 3041
+      },
+      {
+        "_path": "site-packages/unidecode/x001.py",
+        "path_type": "hardlink",
+        "sha256": "ca51e1dd455a3ed89b56e504116bdd49e0c52b4397ad6b78f8b9f1020603eaaa",
+        "sha256_in_prefix": "ca51e1dd455a3ed89b56e504116bdd49e0c52b4397ad6b78f8b9f1020603eaaa",
+        "size_in_bytes": 3891
+      },
+      {
+        "_path": "site-packages/unidecode/x002.py",
+        "path_type": "hardlink",
+        "sha256": "1e892ce5fbbcbb28700ee26df770620ba898bff1d56386c8bca925c80b41a052",
+        "sha256_in_prefix": "1e892ce5fbbcbb28700ee26df770620ba898bff1d56386c8bca925c80b41a052",
+        "size_in_bytes": 3889
+      },
+      {
+        "_path": "site-packages/unidecode/x003.py",
+        "path_type": "hardlink",
+        "sha256": "51db2432eaa4b6084a7232de7a0c189327e10c7de5822fc6e6bafb203e56d3eb",
+        "sha256_in_prefix": "51db2432eaa4b6084a7232de7a0c189327e10c7de5822fc6e6bafb203e56d3eb",
+        "size_in_bytes": 3875
+      },
+      {
+        "_path": "site-packages/unidecode/x004.py",
+        "path_type": "hardlink",
+        "sha256": "f394a1e117a6edd452ee4231eb2190a80ed4eccc6a083e340c6a2a6a86fd3332",
+        "sha256_in_prefix": "f394a1e117a6edd452ee4231eb2190a80ed4eccc6a083e340c6a2a6a86fd3332",
+        "size_in_bytes": 4071
+      },
+      {
+        "_path": "site-packages/unidecode/x005.py",
+        "path_type": "hardlink",
+        "sha256": "a8f11ea44c9232ea1716d561ac5c3ecbaf709d54067059a4ff4bed714cc3613a",
+        "sha256_in_prefix": "a8f11ea44c9232ea1716d561ac5c3ecbaf709d54067059a4ff4bed714cc3613a",
+        "size_in_bytes": 3997
+      },
+      {
+        "_path": "site-packages/unidecode/x006.py",
+        "path_type": "hardlink",
+        "sha256": "e1f656cdce431995450f5cef1ed932c0c1f29104e216003b33a2cca30a5a188d",
+        "sha256_in_prefix": "e1f656cdce431995450f5cef1ed932c0c1f29104e216003b33a2cca30a5a188d",
+        "size_in_bytes": 3961
+      },
+      {
+        "_path": "site-packages/unidecode/x007.py",
+        "path_type": "hardlink",
+        "sha256": "9369244d775b2aa305390cb64e51a6467a1160c08ebea4df8eeb0657beaef521",
+        "sha256_in_prefix": "9369244d775b2aa305390cb64e51a6467a1160c08ebea4df8eeb0657beaef521",
+        "size_in_bytes": 4122
+      },
+      {
+        "_path": "site-packages/unidecode/x009.py",
+        "path_type": "hardlink",
+        "sha256": "699ad6a57c2c4b6c88c8ef2864820ddd4a388f45dda5a26ae5519d0aeddef1c7",
+        "sha256_in_prefix": "699ad6a57c2c4b6c88c8ef2864820ddd4a388f45dda5a26ae5519d0aeddef1c7",
+        "size_in_bytes": 4075
+      },
+      {
+        "_path": "site-packages/unidecode/x00a.py",
+        "path_type": "hardlink",
+        "sha256": "52b5ddbd9faa54c7d6452456f07c2bc5f35707e269d25816da23eceaba195f3e",
+        "sha256_in_prefix": "52b5ddbd9faa54c7d6452456f07c2bc5f35707e269d25816da23eceaba195f3e",
+        "size_in_bytes": 4121
+      },
+      {
+        "_path": "site-packages/unidecode/x00b.py",
+        "path_type": "hardlink",
+        "sha256": "323a9d4b20b15cb67ac14ae0792f00fb0a29f52efc1042bd7be049e07a40a8b0",
+        "sha256_in_prefix": "323a9d4b20b15cb67ac14ae0792f00fb0a29f52efc1042bd7be049e07a40a8b0",
+        "size_in_bytes": 4132
+      },
+      {
+        "_path": "site-packages/unidecode/x00c.py",
+        "path_type": "hardlink",
+        "sha256": "cbecb446a56896b2017ec8f50ed4ffad051b9b1c63a0a9d69590cc3cf0ba3a6e",
+        "sha256_in_prefix": "cbecb446a56896b2017ec8f50ed4ffad051b9b1c63a0a9d69590cc3cf0ba3a6e",
+        "size_in_bytes": 4102
+      },
+      {
+        "_path": "site-packages/unidecode/x00d.py",
+        "path_type": "hardlink",
+        "sha256": "3957c7bdbe38592fda317496ad9b7eebddf127bd0be2c7a9732245224976dd36",
+        "sha256_in_prefix": "3957c7bdbe38592fda317496ad9b7eebddf127bd0be2c7a9732245224976dd36",
+        "size_in_bytes": 4121
+      },
+      {
+        "_path": "site-packages/unidecode/x00e.py",
+        "path_type": "hardlink",
+        "sha256": "f4df70d3d576db9771d7e7bcc341d1688a03eba9a90e11e0a10f9194f6739e60",
+        "sha256_in_prefix": "f4df70d3d576db9771d7e7bcc341d1688a03eba9a90e11e0a10f9194f6739e60",
+        "size_in_bytes": 4092
+      },
+      {
+        "_path": "site-packages/unidecode/x00f.py",
+        "path_type": "hardlink",
+        "sha256": "55a93c67a0f2eae705cac152341b76e191388766525d07012e2582482dbb6d20",
+        "sha256_in_prefix": "55a93c67a0f2eae705cac152341b76e191388766525d07012e2582482dbb6d20",
+        "size_in_bytes": 4061
+      },
+      {
+        "_path": "site-packages/unidecode/x010.py",
+        "path_type": "hardlink",
+        "sha256": "f6f724e4f4d1733e50eb817fd9d20c4283c61054c75a3bf0abb644f749ef38ae",
+        "sha256_in_prefix": "f6f724e4f4d1733e50eb817fd9d20c4283c61054c75a3bf0abb644f749ef38ae",
+        "size_in_bytes": 4110
+      },
+      {
+        "_path": "site-packages/unidecode/x011.py",
+        "path_type": "hardlink",
+        "sha256": "f0437e3d94becad86d4255371d960d90678f9b7a1617348e80ea2b91e414055e",
+        "sha256_in_prefix": "f0437e3d94becad86d4255371d960d90678f9b7a1617348e80ea2b91e414055e",
+        "size_in_bytes": 4135
+      },
+      {
+        "_path": "site-packages/unidecode/x012.py",
+        "path_type": "hardlink",
+        "sha256": "da89d07ec2f97bb5f8441f4329e84c51c1bcd606926afe14c066a55ee967c4e1",
+        "sha256_in_prefix": "da89d07ec2f97bb5f8441f4329e84c51c1bcd606926afe14c066a55ee967c4e1",
+        "size_in_bytes": 4318
+      },
+      {
+        "_path": "site-packages/unidecode/x013.py",
+        "path_type": "hardlink",
+        "sha256": "365f429d45642645c1bb1e531226b956ad673e34c80945324fbec68640a16eb4",
+        "sha256_in_prefix": "365f429d45642645c1bb1e531226b956ad673e34c80945324fbec68640a16eb4",
+        "size_in_bytes": 4247
+      },
+      {
+        "_path": "site-packages/unidecode/x014.py",
+        "path_type": "hardlink",
+        "sha256": "0a4ad6e3bddd2eafc0965a5c2bcb5e0144127a094c2ff319eadf53b0ae60f701",
+        "sha256_in_prefix": "0a4ad6e3bddd2eafc0965a5c2bcb5e0144127a094c2ff319eadf53b0ae60f701",
+        "size_in_bytes": 4300
+      },
+      {
+        "_path": "site-packages/unidecode/x015.py",
+        "path_type": "hardlink",
+        "sha256": "4c1e8ee25daa3f16e617675e8e5c572ea5f9b537e397de5c318c75efbd061ecd",
+        "sha256_in_prefix": "4c1e8ee25daa3f16e617675e8e5c572ea5f9b537e397de5c318c75efbd061ecd",
+        "size_in_bytes": 4329
+      },
+      {
+        "_path": "site-packages/unidecode/x016.py",
+        "path_type": "hardlink",
+        "sha256": "33d922513d12704e5a723fad92898d67478d0f596f6aed22ead24e59ea54d450",
+        "sha256_in_prefix": "33d922513d12704e5a723fad92898d67478d0f596f6aed22ead24e59ea54d450",
+        "size_in_bytes": 4140
+      },
+      {
+        "_path": "site-packages/unidecode/x017.py",
+        "path_type": "hardlink",
+        "sha256": "9ec64fffbbd628e4d863c2ce139df983aeeac3068c7466e567eefd31b7d3357f",
+        "sha256_in_prefix": "9ec64fffbbd628e4d863c2ce139df983aeeac3068c7466e567eefd31b7d3357f",
+        "size_in_bytes": 4190
+      },
+      {
+        "_path": "site-packages/unidecode/x018.py",
+        "path_type": "hardlink",
+        "sha256": "fea0444e98af7bbd48755ea70f499de8a6921dac5a4a93d4b134c7b55944e0a3",
+        "sha256_in_prefix": "fea0444e98af7bbd48755ea70f499de8a6921dac5a4a93d4b134c7b55944e0a3",
+        "size_in_bytes": 4099
+      },
+      {
+        "_path": "site-packages/unidecode/x01d.py",
+        "path_type": "hardlink",
+        "sha256": "13001890c547005bdb291cec43e7b871172f4bf7a26b791808cd8671aaa40566",
+        "sha256_in_prefix": "13001890c547005bdb291cec43e7b871172f4bf7a26b791808cd8671aaa40566",
+        "size_in_bytes": 3701
+      },
+      {
+        "_path": "site-packages/unidecode/x01e.py",
+        "path_type": "hardlink",
+        "sha256": "a15756778bfce64f9295cdd5d22d8d6788b91bceba5fa430edb29724399b5e28",
+        "sha256_in_prefix": "a15756778bfce64f9295cdd5d22d8d6788b91bceba5fa430edb29724399b5e28",
+        "size_in_bytes": 3853
+      },
+      {
+        "_path": "site-packages/unidecode/x01f.py",
+        "path_type": "hardlink",
+        "sha256": "a46f9fb35883ecedef4b0231e886f3e4c869648fcdb105840e51e2469c60642d",
+        "sha256_in_prefix": "a46f9fb35883ecedef4b0231e886f3e4c869648fcdb105840e51e2469c60642d",
+        "size_in_bytes": 3899
+      },
+      {
+        "_path": "site-packages/unidecode/x020.py",
+        "path_type": "hardlink",
+        "sha256": "93d3d6c042625a5ef25054d547cf5c9765ee62a58312255fad7bd2a8e69e247e",
+        "sha256_in_prefix": "93d3d6c042625a5ef25054d547cf5c9765ee62a58312255fad7bd2a8e69e247e",
+        "size_in_bytes": 4010
+      },
+      {
+        "_path": "site-packages/unidecode/x021.py",
+        "path_type": "hardlink",
+        "sha256": "36cf47e75439d6d0c1fa6452111c8c375cb612213b50f431f4adc1c70685ad0b",
+        "sha256_in_prefix": "36cf47e75439d6d0c1fa6452111c8c375cb612213b50f431f4adc1c70685ad0b",
+        "size_in_bytes": 4012
+      },
+      {
+        "_path": "site-packages/unidecode/x022.py",
+        "path_type": "hardlink",
+        "sha256": "3b32170be54c7d4b244ed11ee7f9b7ce99a0b4ab494836345c16790b4728762f",
+        "sha256_in_prefix": "3b32170be54c7d4b244ed11ee7f9b7ce99a0b4ab494836345c16790b4728762f",
+        "size_in_bytes": 4329
+      },
+      {
+        "_path": "site-packages/unidecode/x023.py",
+        "path_type": "hardlink",
+        "sha256": "145827e2127b43849bb3116d1d46bc4ae43454127d864a1de504d668c9a493d5",
+        "sha256_in_prefix": "145827e2127b43849bb3116d1d46bc4ae43454127d864a1de504d668c9a493d5",
+        "size_in_bytes": 4341
+      },
+      {
+        "_path": "site-packages/unidecode/x024.py",
+        "path_type": "hardlink",
+        "sha256": "a4c66a5319307e0cfd9fd357a5468068dafea7d002342c9f4d02a8d8f149d75c",
+        "sha256_in_prefix": "a4c66a5319307e0cfd9fd357a5468068dafea7d002342c9f4d02a8d8f149d75c",
+        "size_in_bytes": 4049
+      },
+      {
+        "_path": "site-packages/unidecode/x025.py",
+        "path_type": "hardlink",
+        "sha256": "f9dbc15776f2c719e01d0710c7b263b7d770b5e841690c11a029d7dd903359ed",
+        "sha256_in_prefix": "f9dbc15776f2c719e01d0710c7b263b7d770b5e841690c11a029d7dd903359ed",
+        "size_in_bytes": 3871
+      },
+      {
+        "_path": "site-packages/unidecode/x026.py",
+        "path_type": "hardlink",
+        "sha256": "37b8b5d61130ba25bd992129d0393801af6222c1ecc406212c0a65a999d432cd",
+        "sha256_in_prefix": "37b8b5d61130ba25bd992129d0393801af6222c1ecc406212c0a65a999d432cd",
+        "size_in_bytes": 4020
+      },
+      {
+        "_path": "site-packages/unidecode/x027.py",
+        "path_type": "hardlink",
+        "sha256": "c19d65df6f2abf90566e4f853ebdf86b2c89e2b5901b711022c3f177b1a29458",
+        "sha256_in_prefix": "c19d65df6f2abf90566e4f853ebdf86b2c89e2b5901b711022c3f177b1a29458",
+        "size_in_bytes": 3783
+      },
+      {
+        "_path": "site-packages/unidecode/x028.py",
+        "path_type": "hardlink",
+        "sha256": "1593c267dc3737758e238da1da01c442054e0252c135366332efca41090831d9",
+        "sha256_in_prefix": "1593c267dc3737758e238da1da01c442054e0252c135366332efca41090831d9",
+        "size_in_bytes": 5069
+      },
+      {
+        "_path": "site-packages/unidecode/x029.py",
+        "path_type": "hardlink",
+        "sha256": "4e56117fbca6d11f8bec39dc997e113595f990a72dbc614b6edbbc18f931aa91",
+        "sha256_in_prefix": "4e56117fbca6d11f8bec39dc997e113595f990a72dbc614b6edbbc18f931aa91",
+        "size_in_bytes": 3584
+      },
+      {
+        "_path": "site-packages/unidecode/x02a.py",
+        "path_type": "hardlink",
+        "sha256": "583dee86fd6c361401e39ba088a524e01b63dda8fca9c1ff929c2b5778d1589c",
+        "sha256_in_prefix": "583dee86fd6c361401e39ba088a524e01b63dda8fca9c1ff929c2b5778d1589c",
+        "size_in_bytes": 3589
+      },
+      {
+        "_path": "site-packages/unidecode/x02c.py",
+        "path_type": "hardlink",
+        "sha256": "cd11b6125c6fe52958ac1a496f5354cfb5ac24e140933c128bdf7570cca19c9b",
+        "sha256_in_prefix": "cd11b6125c6fe52958ac1a496f5354cfb5ac24e140933c128bdf7570cca19c9b",
+        "size_in_bytes": 3596
+      },
+      {
+        "_path": "site-packages/unidecode/x02e.py",
+        "path_type": "hardlink",
+        "sha256": "fe7b5cf94f69c00906424142df3750809354652bfd5b8d75e68b886c8346cb0e",
+        "sha256_in_prefix": "fe7b5cf94f69c00906424142df3750809354652bfd5b8d75e68b886c8346cb0e",
+        "size_in_bytes": 4461
+      },
+      {
+        "_path": "site-packages/unidecode/x02f.py",
+        "path_type": "hardlink",
+        "sha256": "f5cc5e9ba3059bb69c8d40dc9982e4f656f11327cfdb13237c4ddcfba3d411b8",
+        "sha256_in_prefix": "f5cc5e9ba3059bb69c8d40dc9982e4f656f11327cfdb13237c4ddcfba3d411b8",
+        "size_in_bytes": 4572
+      },
+      {
+        "_path": "site-packages/unidecode/x030.py",
+        "path_type": "hardlink",
+        "sha256": "6875477284a5e457315fd41000b696e67d73609d1899aa7ec205aece88d72f26",
+        "sha256_in_prefix": "6875477284a5e457315fd41000b696e67d73609d1899aa7ec205aece88d72f26",
+        "size_in_bytes": 4037
+      },
+      {
+        "_path": "site-packages/unidecode/x031.py",
+        "path_type": "hardlink",
+        "sha256": "bd1973c4128fa39b37643a54a23ad77a564a8d313047c7ec9e6def51e0796e9f",
+        "sha256_in_prefix": "bd1973c4128fa39b37643a54a23ad77a564a8d313047c7ec9e6def51e0796e9f",
+        "size_in_bytes": 4125
+      },
+      {
+        "_path": "site-packages/unidecode/x032.py",
+        "path_type": "hardlink",
+        "sha256": "052655fedf2356c597fd1b28a9a8d602a8a041a1e1df05e6a0c1b9c1466d828b",
+        "sha256_in_prefix": "052655fedf2356c597fd1b28a9a8d602a8a041a1e1df05e6a0c1b9c1466d828b",
+        "size_in_bytes": 4485
+      },
+      {
+        "_path": "site-packages/unidecode/x033.py",
+        "path_type": "hardlink",
+        "sha256": "2264dde014513e00aa5a6aef24fa229282f474930a1fc79081de3cbe4b22eb40",
+        "sha256_in_prefix": "2264dde014513e00aa5a6aef24fa229282f474930a1fc79081de3cbe4b22eb40",
+        "size_in_bytes": 4513
+      },
+      {
+        "_path": "site-packages/unidecode/x04d.py",
+        "path_type": "hardlink",
+        "sha256": "7792be1db4771a0d5505d324d463ba3c9768b1e451215e5e7f86906ec967b01a",
+        "sha256_in_prefix": "7792be1db4771a0d5505d324d463ba3c9768b1e451215e5e7f86906ec967b01a",
+        "size_in_bytes": 4528
+      },
+      {
+        "_path": "site-packages/unidecode/x04e.py",
+        "path_type": "hardlink",
+        "sha256": "cf4e17331b77cb4d7a6a57a9e1783c66387872f063e8275d8c3f50bfab2beafe",
+        "sha256_in_prefix": "cf4e17331b77cb4d7a6a57a9e1783c66387872f063e8275d8c3f50bfab2beafe",
+        "size_in_bytes": 4646
+      },
+      {
+        "_path": "site-packages/unidecode/x04f.py",
+        "path_type": "hardlink",
+        "sha256": "cc47ff4ba6c317be79b2f9cf456cab7957f643849e91833122919fd496f66a57",
+        "sha256_in_prefix": "cc47ff4ba6c317be79b2f9cf456cab7957f643849e91833122919fd496f66a57",
+        "size_in_bytes": 4607
+      },
+      {
+        "_path": "site-packages/unidecode/x050.py",
+        "path_type": "hardlink",
+        "sha256": "30d8447fb4d1710d8276090c70596810649b4edaec5cafbaafa46eec70c6ea15",
+        "sha256_in_prefix": "30d8447fb4d1710d8276090c70596810649b4edaec5cafbaafa46eec70c6ea15",
+        "size_in_bytes": 4682
+      },
+      {
+        "_path": "site-packages/unidecode/x051.py",
+        "path_type": "hardlink",
+        "sha256": "558d230b5d31754edb9b6d428a0e6899decbfb88624a4feb93651347fc931778",
+        "sha256_in_prefix": "558d230b5d31754edb9b6d428a0e6899decbfb88624a4feb93651347fc931778",
+        "size_in_bytes": 4685
+      },
+      {
+        "_path": "site-packages/unidecode/x052.py",
+        "path_type": "hardlink",
+        "sha256": "6b4f5ea3fe692fa8e953d4d6fb31b6c368974d8a7a6b0b50e0ec469cb75cc0a8",
+        "sha256_in_prefix": "6b4f5ea3fe692fa8e953d4d6fb31b6c368974d8a7a6b0b50e0ec469cb75cc0a8",
+        "size_in_bytes": 4654
+      },
+      {
+        "_path": "site-packages/unidecode/x053.py",
+        "path_type": "hardlink",
+        "sha256": "b28e54f824398d16e9ec061964f09d9a476736d7cd9fff8d97fefad5e04cb485",
+        "sha256_in_prefix": "b28e54f824398d16e9ec061964f09d9a476736d7cd9fff8d97fefad5e04cb485",
+        "size_in_bytes": 4616
+      },
+      {
+        "_path": "site-packages/unidecode/x054.py",
+        "path_type": "hardlink",
+        "sha256": "1edbba6453d34f2047514d486be99ced8dc3cb88f5729f9f4706a0d071b09b09",
+        "sha256_in_prefix": "1edbba6453d34f2047514d486be99ced8dc3cb88f5729f9f4706a0d071b09b09",
+        "size_in_bytes": 4583
+      },
+      {
+        "_path": "site-packages/unidecode/x055.py",
+        "path_type": "hardlink",
+        "sha256": "5b3830b2b1c89c4d47f8ee75f45388c9b269a1fcddc9fbbbc39359e48d8eb502",
+        "sha256_in_prefix": "5b3830b2b1c89c4d47f8ee75f45388c9b269a1fcddc9fbbbc39359e48d8eb502",
+        "size_in_bytes": 4599
+      },
+      {
+        "_path": "site-packages/unidecode/x056.py",
+        "path_type": "hardlink",
+        "sha256": "b78655265c62735bdcaa1af2a4b5917772f221f12e5a83c8cf7e37a42adf5bb9",
+        "sha256_in_prefix": "b78655265c62735bdcaa1af2a4b5917772f221f12e5a83c8cf7e37a42adf5bb9",
+        "size_in_bytes": 4615
+      },
+      {
+        "_path": "site-packages/unidecode/x057.py",
+        "path_type": "hardlink",
+        "sha256": "9dd26e463e139ef49ee9a2d7fb2cc36079d6125d497ea03a1e742fcec7f6172a",
+        "sha256_in_prefix": "9dd26e463e139ef49ee9a2d7fb2cc36079d6125d497ea03a1e742fcec7f6172a",
+        "size_in_bytes": 4631
+      },
+      {
+        "_path": "site-packages/unidecode/x058.py",
+        "path_type": "hardlink",
+        "sha256": "9e4692ed3d4f56584a97155df96ac3c381b1d7899c88b11942b52dfbd369903d",
+        "sha256_in_prefix": "9e4692ed3d4f56584a97155df96ac3c381b1d7899c88b11942b52dfbd369903d",
+        "size_in_bytes": 4678
+      },
+      {
+        "_path": "site-packages/unidecode/x059.py",
+        "path_type": "hardlink",
+        "sha256": "f7000a1a97335aecaa31bf3da71ecb772d4c70779c0d777c44c27b957c1c0425",
+        "sha256_in_prefix": "f7000a1a97335aecaa31bf3da71ecb772d4c70779c0d777c44c27b957c1c0425",
+        "size_in_bytes": 4644
+      },
+      {
+        "_path": "site-packages/unidecode/x05a.py",
+        "path_type": "hardlink",
+        "sha256": "175e74cf75f6e3c7640e04eafb49722fe6cb46a65977b5349a4508e8f251c303",
+        "sha256_in_prefix": "175e74cf75f6e3c7640e04eafb49722fe6cb46a65977b5349a4508e8f251c303",
+        "size_in_bytes": 4636
+      },
+      {
+        "_path": "site-packages/unidecode/x05b.py",
+        "path_type": "hardlink",
+        "sha256": "2de263f29ad7d38aaf2c715a786f9bd9813d2ea21b9d479cea9143fbb13dd7c7",
+        "sha256_in_prefix": "2de263f29ad7d38aaf2c715a786f9bd9813d2ea21b9d479cea9143fbb13dd7c7",
+        "size_in_bytes": 4668
+      },
+      {
+        "_path": "site-packages/unidecode/x05c.py",
+        "path_type": "hardlink",
+        "sha256": "0a2b6dd0a85daaf5a412b15da5e4b283ac790af887d68a5544f483e9e0568ec0",
+        "sha256_in_prefix": "0a2b6dd0a85daaf5a412b15da5e4b283ac790af887d68a5544f483e9e0568ec0",
+        "size_in_bytes": 4612
+      },
+      {
+        "_path": "site-packages/unidecode/x05d.py",
+        "path_type": "hardlink",
+        "sha256": "c35bca8cde5158f8b03f9df91428aa6a4cf521b781e0c19ed8035533f6dc76ae",
+        "sha256_in_prefix": "c35bca8cde5158f8b03f9df91428aa6a4cf521b781e0c19ed8035533f6dc76ae",
+        "size_in_bytes": 4670
+      },
+      {
+        "_path": "site-packages/unidecode/x05e.py",
+        "path_type": "hardlink",
+        "sha256": "e99ee09c05eaf6d570bc523087adf6a0b42e1221f3d5ab5ca880d111ea2a95d3",
+        "sha256_in_prefix": "e99ee09c05eaf6d570bc523087adf6a0b42e1221f3d5ab5ca880d111ea2a95d3",
+        "size_in_bytes": 4668
+      },
+      {
+        "_path": "site-packages/unidecode/x05f.py",
+        "path_type": "hardlink",
+        "sha256": "1e8e6d757ec912b868ecb8de542c5fdbd5e559e1290ede515090b79dbc368fc3",
+        "sha256_in_prefix": "1e8e6d757ec912b868ecb8de542c5fdbd5e559e1290ede515090b79dbc368fc3",
+        "size_in_bytes": 4660
+      },
+      {
+        "_path": "site-packages/unidecode/x060.py",
+        "path_type": "hardlink",
+        "sha256": "db1ea1994c27fd5de271dd6475fce4903a798847668a3ef3a545a2cdf54813b4",
+        "sha256_in_prefix": "db1ea1994c27fd5de271dd6475fce4903a798847668a3ef3a545a2cdf54813b4",
+        "size_in_bytes": 4642
+      },
+      {
+        "_path": "site-packages/unidecode/x061.py",
+        "path_type": "hardlink",
+        "sha256": "8704a83dc3f83cbcb9ccf2132dd4956981b0b7f7c81fd9093e9b21289662f8b0",
+        "sha256_in_prefix": "8704a83dc3f83cbcb9ccf2132dd4956981b0b7f7c81fd9093e9b21289662f8b0",
+        "size_in_bytes": 4662
+      },
+      {
+        "_path": "site-packages/unidecode/x062.py",
+        "path_type": "hardlink",
+        "sha256": "ac7f5e6175ffb7e678fa93b2f7e972566ebccd7b75d785f7940201239246fd0b",
+        "sha256_in_prefix": "ac7f5e6175ffb7e678fa93b2f7e972566ebccd7b75d785f7940201239246fd0b",
+        "size_in_bytes": 4620
+      },
+      {
+        "_path": "site-packages/unidecode/x063.py",
+        "path_type": "hardlink",
+        "sha256": "9fc69760e3eeaeb11b073cf80c097eb453858aa309fabd58b775a93376464ead",
+        "sha256_in_prefix": "9fc69760e3eeaeb11b073cf80c097eb453858aa309fabd58b775a93376464ead",
+        "size_in_bytes": 4656
+      },
+      {
+        "_path": "site-packages/unidecode/x064.py",
+        "path_type": "hardlink",
+        "sha256": "b8179b8e45268105732b4b4a5a3c4b670435a02f4a304a69bf45ba71a07cbf58",
+        "sha256_in_prefix": "b8179b8e45268105732b4b4a5a3c4b670435a02f4a304a69bf45ba71a07cbf58",
+        "size_in_bytes": 4655
+      },
+      {
+        "_path": "site-packages/unidecode/x065.py",
+        "path_type": "hardlink",
+        "sha256": "7059c748ba0dc0c1ba3c9bf15967964a14a41e807d2184d2d8b24273c5b49782",
+        "sha256_in_prefix": "7059c748ba0dc0c1ba3c9bf15967964a14a41e807d2184d2d8b24273c5b49782",
+        "size_in_bytes": 4638
+      },
+      {
+        "_path": "site-packages/unidecode/x066.py",
+        "path_type": "hardlink",
+        "sha256": "815dafc744ea200e383c13b3174db07ad7f77715dc5e683c26bd82b73c4c0c55",
+        "sha256_in_prefix": "815dafc744ea200e383c13b3174db07ad7f77715dc5e683c26bd82b73c4c0c55",
+        "size_in_bytes": 4677
+      },
+      {
+        "_path": "site-packages/unidecode/x067.py",
+        "path_type": "hardlink",
+        "sha256": "f5c9365054aff142f77344473d3755e11ceaee881955e770b0c0188461359663",
+        "sha256_in_prefix": "f5c9365054aff142f77344473d3755e11ceaee881955e770b0c0188461359663",
+        "size_in_bytes": 4635
+      },
+      {
+        "_path": "site-packages/unidecode/x068.py",
+        "path_type": "hardlink",
+        "sha256": "6930007872ebe7e56732a345d21f4a0b8b453aeb15f4fa56772c29ef1965000d",
+        "sha256_in_prefix": "6930007872ebe7e56732a345d21f4a0b8b453aeb15f4fa56772c29ef1965000d",
+        "size_in_bytes": 4674
+      },
+      {
+        "_path": "site-packages/unidecode/x069.py",
+        "path_type": "hardlink",
+        "sha256": "f3f54c376bc6a8d00facff223f1202448f4f37cd47b6cdb514cd40e27d7feeda",
+        "sha256_in_prefix": "f3f54c376bc6a8d00facff223f1202448f4f37cd47b6cdb514cd40e27d7feeda",
+        "size_in_bytes": 4673
+      },
+      {
+        "_path": "site-packages/unidecode/x06a.py",
+        "path_type": "hardlink",
+        "sha256": "7bb6a127e8f962fa2666f41c2317c031b1e08a36ca9dc6284cdf536a40d0aa28",
+        "sha256_in_prefix": "7bb6a127e8f962fa2666f41c2317c031b1e08a36ca9dc6284cdf536a40d0aa28",
+        "size_in_bytes": 4674
+      },
+      {
+        "_path": "site-packages/unidecode/x06b.py",
+        "path_type": "hardlink",
+        "sha256": "9414565614cc24f04a580c804f6dcfb9e1edc3dc174ee506f52d945568e8b2be",
+        "sha256_in_prefix": "9414565614cc24f04a580c804f6dcfb9e1edc3dc174ee506f52d945568e8b2be",
+        "size_in_bytes": 4608
+      },
+      {
+        "_path": "site-packages/unidecode/x06c.py",
+        "path_type": "hardlink",
+        "sha256": "8bcc578e5370857c6fac77674db772fa34df9a5fdf0f4b8551172d0350502a4d",
+        "sha256_in_prefix": "8bcc578e5370857c6fac77674db772fa34df9a5fdf0f4b8551172d0350502a4d",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "site-packages/unidecode/x06d.py",
+        "path_type": "hardlink",
+        "sha256": "06f80977b4cd8fa70be88e5b8cf5e7822ded24fa3461f8484821d25ef7e6b139",
+        "sha256_in_prefix": "06f80977b4cd8fa70be88e5b8cf5e7822ded24fa3461f8484821d25ef7e6b139",
+        "size_in_bytes": 4651
+      },
+      {
+        "_path": "site-packages/unidecode/x06e.py",
+        "path_type": "hardlink",
+        "sha256": "8d9e957906c04981adc74417c92cd9cd141ffcbaad3c053a8e14e8dd4fe71535",
+        "sha256_in_prefix": "8d9e957906c04981adc74417c92cd9cd141ffcbaad3c053a8e14e8dd4fe71535",
+        "size_in_bytes": 4640
+      },
+      {
+        "_path": "site-packages/unidecode/x06f.py",
+        "path_type": "hardlink",
+        "sha256": "5b403de6da01ef0ee92eba2109a7adfddd3e4b757ce1f8f34ca819eaf854b689",
+        "sha256_in_prefix": "5b403de6da01ef0ee92eba2109a7adfddd3e4b757ce1f8f34ca819eaf854b689",
+        "size_in_bytes": 4650
+      },
+      {
+        "_path": "site-packages/unidecode/x070.py",
+        "path_type": "hardlink",
+        "sha256": "955335a97525b6a22b2888b458f1f517915ebaae0cd34ee79b794e911fc4076b",
+        "sha256_in_prefix": "955335a97525b6a22b2888b458f1f517915ebaae0cd34ee79b794e911fc4076b",
+        "size_in_bytes": 4693
+      },
+      {
+        "_path": "site-packages/unidecode/x071.py",
+        "path_type": "hardlink",
+        "sha256": "bf657758d28f54486e27f457eab640e39ac522e92030227caea3e85308f4e737",
+        "sha256_in_prefix": "bf657758d28f54486e27f457eab640e39ac522e92030227caea3e85308f4e737",
+        "size_in_bytes": 4670
+      },
+      {
+        "_path": "site-packages/unidecode/x072.py",
+        "path_type": "hardlink",
+        "sha256": "3613a4244a80a4ef6c864620c1d5956ab5540e659a8a5238375bcd88b1a43923",
+        "sha256_in_prefix": "3613a4244a80a4ef6c864620c1d5956ab5540e659a8a5238375bcd88b1a43923",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "site-packages/unidecode/x073.py",
+        "path_type": "hardlink",
+        "sha256": "968620f99acad6b772d8291b41f778ab2756f2509e88dcb01334fa80b4cdf862",
+        "sha256_in_prefix": "968620f99acad6b772d8291b41f778ab2756f2509e88dcb01334fa80b4cdf862",
+        "size_in_bytes": 4646
+      },
+      {
+        "_path": "site-packages/unidecode/x074.py",
+        "path_type": "hardlink",
+        "sha256": "14b22e99465cac2cbd63a7972f904ba5afe11391cc19b3e8f8f5ad14187eac1b",
+        "sha256_in_prefix": "14b22e99465cac2cbd63a7972f904ba5afe11391cc19b3e8f8f5ad14187eac1b",
+        "size_in_bytes": 4696
+      },
+      {
+        "_path": "site-packages/unidecode/x075.py",
+        "path_type": "hardlink",
+        "sha256": "3f74ab848e41439b09eba872bbf2d60ce369bb32d92412ac97b7fe037eec2577",
+        "sha256_in_prefix": "3f74ab848e41439b09eba872bbf2d60ce369bb32d92412ac97b7fe037eec2577",
+        "size_in_bytes": 4675
+      },
+      {
+        "_path": "site-packages/unidecode/x076.py",
+        "path_type": "hardlink",
+        "sha256": "dde9da240332f79d4c2bfc819e12623a6a13773534789dae120a11819453527d",
+        "sha256_in_prefix": "dde9da240332f79d4c2bfc819e12623a6a13773534789dae120a11819453527d",
+        "size_in_bytes": 4639
+      },
+      {
+        "_path": "site-packages/unidecode/x077.py",
+        "path_type": "hardlink",
+        "sha256": "5c7fd38c7b291929eee2fdea80d3aa14d32f64a65c03e1c7eaafc6581e3c0a8b",
+        "sha256_in_prefix": "5c7fd38c7b291929eee2fdea80d3aa14d32f64a65c03e1c7eaafc6581e3c0a8b",
+        "size_in_bytes": 4675
+      },
+      {
+        "_path": "site-packages/unidecode/x078.py",
+        "path_type": "hardlink",
+        "sha256": "2fd5cea3c507ff1fa9ad00bf79d02b9d3b3e8f66ac651f78d2c2da3d24f68b2d",
+        "sha256_in_prefix": "2fd5cea3c507ff1fa9ad00bf79d02b9d3b3e8f66ac651f78d2c2da3d24f68b2d",
+        "size_in_bytes": 4648
+      },
+      {
+        "_path": "site-packages/unidecode/x079.py",
+        "path_type": "hardlink",
+        "sha256": "e9edbd9a06973e6b4cad4f3f4117e66695995bca3ec8479e20e8001cea1ea68f",
+        "sha256_in_prefix": "e9edbd9a06973e6b4cad4f3f4117e66695995bca3ec8479e20e8001cea1ea68f",
+        "size_in_bytes": 4602
+      },
+      {
+        "_path": "site-packages/unidecode/x07a.py",
+        "path_type": "hardlink",
+        "sha256": "7cc00262e02c22e9a013c5e4627336efde47b4503ac1e1f860b9fb8e024b6dbc",
+        "sha256_in_prefix": "7cc00262e02c22e9a013c5e4627336efde47b4503ac1e1f860b9fb8e024b6dbc",
+        "size_in_bytes": 4669
+      },
+      {
+        "_path": "site-packages/unidecode/x07b.py",
+        "path_type": "hardlink",
+        "sha256": "507f195ec475d6920dcf401ac49f1eb534f26978826b08ee2dc72dce9e05c197",
+        "sha256_in_prefix": "507f195ec475d6920dcf401ac49f1eb534f26978826b08ee2dc72dce9e05c197",
+        "size_in_bytes": 4669
+      },
+      {
+        "_path": "site-packages/unidecode/x07c.py",
+        "path_type": "hardlink",
+        "sha256": "7e9a861ac174fab115c4179515fd1133c7e3c1e52583ef5476e02dc408cbe6f7",
+        "sha256_in_prefix": "7e9a861ac174fab115c4179515fd1133c7e3c1e52583ef5476e02dc408cbe6f7",
+        "size_in_bytes": 4663
+      },
+      {
+        "_path": "site-packages/unidecode/x07d.py",
+        "path_type": "hardlink",
+        "sha256": "10a16b4d04cd14b1a7b26dea23be802f1af1182703bb211b6a98bd8fd8f2d41e",
+        "sha256_in_prefix": "10a16b4d04cd14b1a7b26dea23be802f1af1182703bb211b6a98bd8fd8f2d41e",
+        "size_in_bytes": 4678
+      },
+      {
+        "_path": "site-packages/unidecode/x07e.py",
+        "path_type": "hardlink",
+        "sha256": "9f6386e717bc23e574a67f7c43613eecf6d7490408ef6a3334d5171673191ef3",
+        "sha256_in_prefix": "9f6386e717bc23e574a67f7c43613eecf6d7490408ef6a3334d5171673191ef3",
+        "size_in_bytes": 4682
+      },
+      {
+        "_path": "site-packages/unidecode/x07f.py",
+        "path_type": "hardlink",
+        "sha256": "838e79aa31b72c1bbdba3bae4ede71ad19f67632bf8955c0278754565f9b61fb",
+        "sha256_in_prefix": "838e79aa31b72c1bbdba3bae4ede71ad19f67632bf8955c0278754565f9b61fb",
+        "size_in_bytes": 4664
+      },
+      {
+        "_path": "site-packages/unidecode/x080.py",
+        "path_type": "hardlink",
+        "sha256": "16eab2d11827bdfbc515d98689a1f02b607ad14094e40c387f217bf6405f86bf",
+        "sha256_in_prefix": "16eab2d11827bdfbc515d98689a1f02b607ad14094e40c387f217bf6405f86bf",
+        "size_in_bytes": 4651
+      },
+      {
+        "_path": "site-packages/unidecode/x081.py",
+        "path_type": "hardlink",
+        "sha256": "ad08371e3aa8eb56c4282a5bed3c9b1c32efd8782efbf82129d5bac64f713a15",
+        "sha256_in_prefix": "ad08371e3aa8eb56c4282a5bed3c9b1c32efd8782efbf82129d5bac64f713a15",
+        "size_in_bytes": 4673
+      },
+      {
+        "_path": "site-packages/unidecode/x082.py",
+        "path_type": "hardlink",
+        "sha256": "b118ce886ad8cb646daaa1ffc5074bebf8b5ec8fb025923a6a0ef8d3898be0cf",
+        "sha256_in_prefix": "b118ce886ad8cb646daaa1ffc5074bebf8b5ec8fb025923a6a0ef8d3898be0cf",
+        "size_in_bytes": 4649
+      },
+      {
+        "_path": "site-packages/unidecode/x083.py",
+        "path_type": "hardlink",
+        "sha256": "f210b1195da8d64140ea1305be4e08722fd02b29c30988c35a3cc2b8cc9f9872",
+        "sha256_in_prefix": "f210b1195da8d64140ea1305be4e08722fd02b29c30988c35a3cc2b8cc9f9872",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "site-packages/unidecode/x084.py",
+        "path_type": "hardlink",
+        "sha256": "8c80e00cf870b2c51c2e003b37464836b07fa999f53f80bb947caf3fbc8a03aa",
+        "sha256_in_prefix": "8c80e00cf870b2c51c2e003b37464836b07fa999f53f80bb947caf3fbc8a03aa",
+        "size_in_bytes": 4646
+      },
+      {
+        "_path": "site-packages/unidecode/x085.py",
+        "path_type": "hardlink",
+        "sha256": "e74eb75cfe45ef638462eaa3113a8594dffb21a5350347de56ebc8ba9f51d2b2",
+        "sha256_in_prefix": "e74eb75cfe45ef638462eaa3113a8594dffb21a5350347de56ebc8ba9f51d2b2",
+        "size_in_bytes": 4636
+      },
+      {
+        "_path": "site-packages/unidecode/x086.py",
+        "path_type": "hardlink",
+        "sha256": "a2f34b74c4511e6e239e00c65e6c06ebacd91fa97e57eb8cb686275c1fd6fd06",
+        "sha256_in_prefix": "a2f34b74c4511e6e239e00c65e6c06ebacd91fa97e57eb8cb686275c1fd6fd06",
+        "size_in_bytes": 4614
+      },
+      {
+        "_path": "site-packages/unidecode/x087.py",
+        "path_type": "hardlink",
+        "sha256": "f9598b25619530617d071603f1571373c4d2f375b6eea70446ec9c2827e92c17",
+        "sha256_in_prefix": "f9598b25619530617d071603f1571373c4d2f375b6eea70446ec9c2827e92c17",
+        "size_in_bytes": 4649
+      },
+      {
+        "_path": "site-packages/unidecode/x088.py",
+        "path_type": "hardlink",
+        "sha256": "13adda015505d01d5ffb95cbedf3945aa5cbda3b9424b53d4f03bf2c72af7764",
+        "sha256_in_prefix": "13adda015505d01d5ffb95cbedf3945aa5cbda3b9424b53d4f03bf2c72af7764",
+        "size_in_bytes": 4645
+      },
+      {
+        "_path": "site-packages/unidecode/x089.py",
+        "path_type": "hardlink",
+        "sha256": "9ab2969de889da120590ce1cbb86d4d0840cbd345681767caec0d6e7be63a7d0",
+        "sha256_in_prefix": "9ab2969de889da120590ce1cbb86d4d0840cbd345681767caec0d6e7be63a7d0",
+        "size_in_bytes": 4628
+      },
+      {
+        "_path": "site-packages/unidecode/x08a.py",
+        "path_type": "hardlink",
+        "sha256": "363329f5c93cdb83d71b681c2577e2ffda1008581786189a9653b76d80ad5c21",
+        "sha256_in_prefix": "363329f5c93cdb83d71b681c2577e2ffda1008581786189a9653b76d80ad5c21",
+        "size_in_bytes": 4647
+      },
+      {
+        "_path": "site-packages/unidecode/x08b.py",
+        "path_type": "hardlink",
+        "sha256": "5b5900b658aa866e71dbc2b173a914ae3ceaa3ec5cfc79986340631e1115db1e",
+        "sha256_in_prefix": "5b5900b658aa866e71dbc2b173a914ae3ceaa3ec5cfc79986340631e1115db1e",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "site-packages/unidecode/x08c.py",
+        "path_type": "hardlink",
+        "sha256": "683870ba04abbed5210ddc1b0027e34b412406a1a88f09f2faa6eb41125f3e10",
+        "sha256_in_prefix": "683870ba04abbed5210ddc1b0027e34b412406a1a88f09f2faa6eb41125f3e10",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "site-packages/unidecode/x08d.py",
+        "path_type": "hardlink",
+        "sha256": "a32c9d0532678348a9efd9544c11e84c8a868f19874dbd2dc243d9a84ecbc5e5",
+        "sha256_in_prefix": "a32c9d0532678348a9efd9544c11e84c8a868f19874dbd2dc243d9a84ecbc5e5",
+        "size_in_bytes": 4636
+      },
+      {
+        "_path": "site-packages/unidecode/x08e.py",
+        "path_type": "hardlink",
+        "sha256": "c3e172b0b5fe2e09a0804ba198f663c93ebbfa2e3f101f07c78e22fd7fd0dcd7",
+        "sha256_in_prefix": "c3e172b0b5fe2e09a0804ba198f663c93ebbfa2e3f101f07c78e22fd7fd0dcd7",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "site-packages/unidecode/x08f.py",
+        "path_type": "hardlink",
+        "sha256": "69dca09240909f85ba6212549277f63bed9e33f2f31f52df8e3a607a76cf87cd",
+        "sha256_in_prefix": "69dca09240909f85ba6212549277f63bed9e33f2f31f52df8e3a607a76cf87cd",
+        "size_in_bytes": 4651
+      },
+      {
+        "_path": "site-packages/unidecode/x090.py",
+        "path_type": "hardlink",
+        "sha256": "8fee6aac20c31d82899db1cbe40fdf9b9212add1558034796d741b3f5f06fb5e",
+        "sha256_in_prefix": "8fee6aac20c31d82899db1cbe40fdf9b9212add1558034796d741b3f5f06fb5e",
+        "size_in_bytes": 4631
+      },
+      {
+        "_path": "site-packages/unidecode/x091.py",
+        "path_type": "hardlink",
+        "sha256": "4bc8e55638cf34b3c2b125caf2a297a861a84cb8fe2d68dee49f9ffb60001176",
+        "sha256_in_prefix": "4bc8e55638cf34b3c2b125caf2a297a861a84cb8fe2d68dee49f9ffb60001176",
+        "size_in_bytes": 4655
+      },
+      {
+        "_path": "site-packages/unidecode/x092.py",
+        "path_type": "hardlink",
+        "sha256": "b9217c355621fd4189136a5c97826b554d8fadbf93d9cac62c21385d07bb0df4",
+        "sha256_in_prefix": "b9217c355621fd4189136a5c97826b554d8fadbf93d9cac62c21385d07bb0df4",
+        "size_in_bytes": 4648
+      },
+      {
+        "_path": "site-packages/unidecode/x093.py",
+        "path_type": "hardlink",
+        "sha256": "a0c89933555fbdf2a7c15292261dbc8b29d6246f2242d2aeff5cecadb3dd3cdb",
+        "sha256_in_prefix": "a0c89933555fbdf2a7c15292261dbc8b29d6246f2242d2aeff5cecadb3dd3cdb",
+        "size_in_bytes": 4666
+      },
+      {
+        "_path": "site-packages/unidecode/x094.py",
+        "path_type": "hardlink",
+        "sha256": "31286136fe04f5b8fd8e6404b561e2ffc663792e29d88cfa8f78fd9096f9acad",
+        "sha256_in_prefix": "31286136fe04f5b8fd8e6404b561e2ffc663792e29d88cfa8f78fd9096f9acad",
+        "size_in_bytes": 4661
+      },
+      {
+        "_path": "site-packages/unidecode/x095.py",
+        "path_type": "hardlink",
+        "sha256": "050d51e90c215a30bf11bef321b58fd00daba3b6c8fade9f4c04162c5326cc03",
+        "sha256_in_prefix": "050d51e90c215a30bf11bef321b58fd00daba3b6c8fade9f4c04162c5326cc03",
+        "size_in_bytes": 4671
+      },
+      {
+        "_path": "site-packages/unidecode/x096.py",
+        "path_type": "hardlink",
+        "sha256": "37d84b42b6616d35c2f5ba310dc5aedd61124c807a127f3690990163eeaa0512",
+        "sha256_in_prefix": "37d84b42b6616d35c2f5ba310dc5aedd61124c807a127f3690990163eeaa0512",
+        "size_in_bytes": 4610
+      },
+      {
+        "_path": "site-packages/unidecode/x097.py",
+        "path_type": "hardlink",
+        "sha256": "2b8c1a1eec3ab4d72199c63b1a573e4aee9c4c6dfe885fd7fde818b86f84e1f0",
+        "sha256_in_prefix": "2b8c1a1eec3ab4d72199c63b1a573e4aee9c4c6dfe885fd7fde818b86f84e1f0",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "site-packages/unidecode/x098.py",
+        "path_type": "hardlink",
+        "sha256": "08515c6f98292bb141a8fb05c11a0b3f461c6052411a087797e45fe0fcd76e37",
+        "sha256_in_prefix": "08515c6f98292bb141a8fb05c11a0b3f461c6052411a087797e45fe0fcd76e37",
+        "size_in_bytes": 4645
+      },
+      {
+        "_path": "site-packages/unidecode/x099.py",
+        "path_type": "hardlink",
+        "sha256": "7bdc35fadb1aded0986105e7ef5132d5b83f9f6518b9d310d32fb349209d6a31",
+        "sha256_in_prefix": "7bdc35fadb1aded0986105e7ef5132d5b83f9f6518b9d310d32fb349209d6a31",
+        "size_in_bytes": 4629
+      },
+      {
+        "_path": "site-packages/unidecode/x09a.py",
+        "path_type": "hardlink",
+        "sha256": "67ca50b1373ad825a09b424f9e3de4a2428a7fdfea7f3469a34bb9887eb509a1",
+        "sha256_in_prefix": "67ca50b1373ad825a09b424f9e3de4a2428a7fdfea7f3469a34bb9887eb509a1",
+        "size_in_bytes": 4623
+      },
+      {
+        "_path": "site-packages/unidecode/x09b.py",
+        "path_type": "hardlink",
+        "sha256": "a62499d8000ae466af1c911af2ac08fe5ae57524a0361c58bcbb9ad00bbfd5a0",
+        "sha256_in_prefix": "a62499d8000ae466af1c911af2ac08fe5ae57524a0361c58bcbb9ad00bbfd5a0",
+        "size_in_bytes": 4655
+      },
+      {
+        "_path": "site-packages/unidecode/x09c.py",
+        "path_type": "hardlink",
+        "sha256": "36f78c84df39fc29b81f57277c70d37274a3ebbe4c39506af4b923a70dd8c40d",
+        "sha256_in_prefix": "36f78c84df39fc29b81f57277c70d37274a3ebbe4c39506af4b923a70dd8c40d",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "site-packages/unidecode/x09d.py",
+        "path_type": "hardlink",
+        "sha256": "d928f7efa408b3cac9ed50eb3d6e5110b86427c2c8e492383516c5725e035e51",
+        "sha256_in_prefix": "d928f7efa408b3cac9ed50eb3d6e5110b86427c2c8e492383516c5725e035e51",
+        "size_in_bytes": 4632
+      },
+      {
+        "_path": "site-packages/unidecode/x09e.py",
+        "path_type": "hardlink",
+        "sha256": "cf56c5e8030bfdddb47509bd1c3ed806b9caa934158de4d323df7d85c2c47b43",
+        "sha256_in_prefix": "cf56c5e8030bfdddb47509bd1c3ed806b9caa934158de4d323df7d85c2c47b43",
+        "size_in_bytes": 4615
+      },
+      {
+        "_path": "site-packages/unidecode/x09f.py",
+        "path_type": "hardlink",
+        "sha256": "4fea52e61962dfdac0d460c3a9961fc8746ea4f00baa494f5c0fb58bca607352",
+        "sha256_in_prefix": "4fea52e61962dfdac0d460c3a9961fc8746ea4f00baa494f5c0fb58bca607352",
+        "size_in_bytes": 4509
+      },
+      {
+        "_path": "site-packages/unidecode/x0a0.py",
+        "path_type": "hardlink",
+        "sha256": "129a293eeba87326e009ca57d7d222fae76ab0f5c98d271eb37dfad25a89f2fb",
+        "sha256_in_prefix": "129a293eeba87326e009ca57d7d222fae76ab0f5c98d271eb37dfad25a89f2fb",
+        "size_in_bytes": 4428
+      },
+      {
+        "_path": "site-packages/unidecode/x0a1.py",
+        "path_type": "hardlink",
+        "sha256": "d21bc5efb77913ae344ae8e374756acb980c507f3980474ebfcd1e46f0840063",
+        "sha256_in_prefix": "d21bc5efb77913ae344ae8e374756acb980c507f3980474ebfcd1e46f0840063",
+        "size_in_bytes": 4469
+      },
+      {
+        "_path": "site-packages/unidecode/x0a2.py",
+        "path_type": "hardlink",
+        "sha256": "f487297e4fc495e6d877fc4dd3d38cce216ba4018f5c450d5666b0a6785b05a4",
+        "sha256_in_prefix": "f487297e4fc495e6d877fc4dd3d38cce216ba4018f5c450d5666b0a6785b05a4",
+        "size_in_bytes": 4503
+      },
+      {
+        "_path": "site-packages/unidecode/x0a3.py",
+        "path_type": "hardlink",
+        "sha256": "1b594fae70aa633d2ce30b126b5a8cd1682b64158efdb7919370202b489564b0",
+        "sha256_in_prefix": "1b594fae70aa633d2ce30b126b5a8cd1682b64158efdb7919370202b489564b0",
+        "size_in_bytes": 4521
+      },
+      {
+        "_path": "site-packages/unidecode/x0a4.py",
+        "path_type": "hardlink",
+        "sha256": "bd2fb03e991f326c112635d3058338046a7305f0e829631a74d3566933d87292",
+        "sha256_in_prefix": "bd2fb03e991f326c112635d3058338046a7305f0e829631a74d3566933d87292",
+        "size_in_bytes": 4437
+      },
+      {
+        "_path": "site-packages/unidecode/x0ac.py",
+        "path_type": "hardlink",
+        "sha256": "c23ee197cf1594275cfde1a938be26e0204920bc90a9df5ab4e6c2e57bddd1a0",
+        "sha256_in_prefix": "c23ee197cf1594275cfde1a938be26e0204920bc90a9df5ab4e6c2e57bddd1a0",
+        "size_in_bytes": 4709
+      },
+      {
+        "_path": "site-packages/unidecode/x0ad.py",
+        "path_type": "hardlink",
+        "sha256": "473e6b9f47ccf82a918da3784ef4aaff54ad010772005d965f7714bdc4076965",
+        "sha256_in_prefix": "473e6b9f47ccf82a918da3784ef4aaff54ad010772005d965f7714bdc4076965",
+        "size_in_bytes": 4766
+      },
+      {
+        "_path": "site-packages/unidecode/x0ae.py",
+        "path_type": "hardlink",
+        "sha256": "8cd201541f8fc3664d8a101ec966c3204abd62df7396175f1b295fbc06b1524b",
+        "sha256_in_prefix": "8cd201541f8fc3664d8a101ec966c3204abd62df7396175f1b295fbc06b1524b",
+        "size_in_bytes": 4875
+      },
+      {
+        "_path": "site-packages/unidecode/x0af.py",
+        "path_type": "hardlink",
+        "sha256": "026e580bc65faee9f93542b153a2eb536f9de4682419206cedf66ddaba928bbe",
+        "sha256_in_prefix": "026e580bc65faee9f93542b153a2eb536f9de4682419206cedf66ddaba928bbe",
+        "size_in_bytes": 5012
+      },
+      {
+        "_path": "site-packages/unidecode/x0b0.py",
+        "path_type": "hardlink",
+        "sha256": "d5b8077ab08302a21c24761e19d7498c97d15a21c22ad53607427e5c6bdc6db7",
+        "sha256_in_prefix": "d5b8077ab08302a21c24761e19d7498c97d15a21c22ad53607427e5c6bdc6db7",
+        "size_in_bytes": 4853
+      },
+      {
+        "_path": "site-packages/unidecode/x0b1.py",
+        "path_type": "hardlink",
+        "sha256": "4a2c7e97319dbe0271e18b086b4953bac9c1115d736c22900aabaad7b4c32684",
+        "sha256_in_prefix": "4a2c7e97319dbe0271e18b086b4953bac9c1115d736c22900aabaad7b4c32684",
+        "size_in_bytes": 4746
+      },
+      {
+        "_path": "site-packages/unidecode/x0b2.py",
+        "path_type": "hardlink",
+        "sha256": "1d00db9a094d8b841f891486b9c51c960abfe051a94636c99165352532c01467",
+        "sha256_in_prefix": "1d00db9a094d8b841f891486b9c51c960abfe051a94636c99165352532c01467",
+        "size_in_bytes": 4680
+      },
+      {
+        "_path": "site-packages/unidecode/x0b3.py",
+        "path_type": "hardlink",
+        "sha256": "d65ab18215598a24ad380c75206fef735cd94d7ac06bb67ffd063a656be8d9a0",
+        "sha256_in_prefix": "d65ab18215598a24ad380c75206fef735cd94d7ac06bb67ffd063a656be8d9a0",
+        "size_in_bytes": 4741
+      },
+      {
+        "_path": "site-packages/unidecode/x0b4.py",
+        "path_type": "hardlink",
+        "sha256": "57a04d493c69c8ff15baa17bc79cfb6e9177310024c197cab44bba345affbd28",
+        "sha256_in_prefix": "57a04d493c69c8ff15baa17bc79cfb6e9177310024c197cab44bba345affbd28",
+        "size_in_bytes": 4762
+      },
+      {
+        "_path": "site-packages/unidecode/x0b5.py",
+        "path_type": "hardlink",
+        "sha256": "f4d55dda134bc9194b71e565ce76dad5dadea8119e294ff48339a4800c348328",
+        "sha256_in_prefix": "f4d55dda134bc9194b71e565ce76dad5dadea8119e294ff48339a4800c348328",
+        "size_in_bytes": 4919
+      },
+      {
+        "_path": "site-packages/unidecode/x0b6.py",
+        "path_type": "hardlink",
+        "sha256": "57fbd1b01d06202bbd86a84ee299db3d6ade0d27af2776db98b44992e414c671",
+        "sha256_in_prefix": "57fbd1b01d06202bbd86a84ee299db3d6ade0d27af2776db98b44992e414c671",
+        "size_in_bytes": 4996
+      },
+      {
+        "_path": "site-packages/unidecode/x0b7.py",
+        "path_type": "hardlink",
+        "sha256": "0b005a081202c956a09c58d4a64c1a6ee0ef049c3b8007aa9124697c1015bfcb",
+        "sha256_in_prefix": "0b005a081202c956a09c58d4a64c1a6ee0ef049c3b8007aa9124697c1015bfcb",
+        "size_in_bytes": 4833
+      },
+      {
+        "_path": "site-packages/unidecode/x0b8.py",
+        "path_type": "hardlink",
+        "sha256": "c58a7ec72d8b230abde4e5b24bdbd831cfd9e6877d76e7745b57717a0e0ffc99",
+        "sha256_in_prefix": "c58a7ec72d8b230abde4e5b24bdbd831cfd9e6877d76e7745b57717a0e0ffc99",
+        "size_in_bytes": 4714
+      },
+      {
+        "_path": "site-packages/unidecode/x0b9.py",
+        "path_type": "hardlink",
+        "sha256": "cf784a37306afcc78af55dc0c90cda639f1c822d3e5463ac2e4dfe5059acccb4",
+        "sha256_in_prefix": "cf784a37306afcc78af55dc0c90cda639f1c822d3e5463ac2e4dfe5059acccb4",
+        "size_in_bytes": 4704
+      },
+      {
+        "_path": "site-packages/unidecode/x0ba.py",
+        "path_type": "hardlink",
+        "sha256": "e20b9b89fa01789514af05c4238962b49ca07a4b9f1327265832eb27e42fb35e",
+        "sha256_in_prefix": "e20b9b89fa01789514af05c4238962b49ca07a4b9f1327265832eb27e42fb35e",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "site-packages/unidecode/x0bb.py",
+        "path_type": "hardlink",
+        "sha256": "6ec09300151d0bac939fcff4be161ee6344fd73fc1a007627e2701f18d5cd610",
+        "sha256_in_prefix": "6ec09300151d0bac939fcff4be161ee6344fd73fc1a007627e2701f18d5cd610",
+        "size_in_bytes": 4730
+      },
+      {
+        "_path": "site-packages/unidecode/x0bc.py",
+        "path_type": "hardlink",
+        "sha256": "02142f033ef21e56d0ff873628e222b2ad3b7992792509fa715f08df5a13f648",
+        "sha256_in_prefix": "02142f033ef21e56d0ff873628e222b2ad3b7992792509fa715f08df5a13f648",
+        "size_in_bytes": 4707
+      },
+      {
+        "_path": "site-packages/unidecode/x0bd.py",
+        "path_type": "hardlink",
+        "sha256": "206b72571214af5994de1a249fa8940c985765ecd0a3356f7d63b27f83dae5d2",
+        "sha256_in_prefix": "206b72571214af5994de1a249fa8940c985765ecd0a3356f7d63b27f83dae5d2",
+        "size_in_bytes": 4752
+      },
+      {
+        "_path": "site-packages/unidecode/x0be.py",
+        "path_type": "hardlink",
+        "sha256": "d43fa15eede9df0bce9c654c8c4a95b2b96d61eed4b92c22b76caa3797858b37",
+        "sha256_in_prefix": "d43fa15eede9df0bce9c654c8c4a95b2b96d61eed4b92c22b76caa3797858b37",
+        "size_in_bytes": 4849
+      },
+      {
+        "_path": "site-packages/unidecode/x0bf.py",
+        "path_type": "hardlink",
+        "sha256": "364117aabd8447704d1644dab0357d0879e4441b97fc0a393871affcd80a01ec",
+        "sha256_in_prefix": "364117aabd8447704d1644dab0357d0879e4441b97fc0a393871affcd80a01ec",
+        "size_in_bytes": 5010
+      },
+      {
+        "_path": "site-packages/unidecode/x0c0.py",
+        "path_type": "hardlink",
+        "sha256": "cc3947a72334a26cdae53a862dbf11865ed677e2e5575023bc7ff1767127345c",
+        "sha256_in_prefix": "cc3947a72334a26cdae53a862dbf11865ed677e2e5575023bc7ff1767127345c",
+        "size_in_bytes": 4856
+      },
+      {
+        "_path": "site-packages/unidecode/x0c1.py",
+        "path_type": "hardlink",
+        "sha256": "002eb1272c7d51b94a00636a18dec01f621d6f7ff7bdb73e2395343328a0e5f0",
+        "sha256_in_prefix": "002eb1272c7d51b94a00636a18dec01f621d6f7ff7bdb73e2395343328a0e5f0",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "site-packages/unidecode/x0c2.py",
+        "path_type": "hardlink",
+        "sha256": "b224582c0f02bfd67c5ec469dd640e05d46b3e48c93ae121f33d7edd23173b34",
+        "sha256_in_prefix": "b224582c0f02bfd67c5ec469dd640e05d46b3e48c93ae121f33d7edd23173b34",
+        "size_in_bytes": 4710
+      },
+      {
+        "_path": "site-packages/unidecode/x0c3.py",
+        "path_type": "hardlink",
+        "sha256": "8650057ba96ccf468b322c65a5e16357823e593222037076054e7cc86953c118",
+        "sha256_in_prefix": "8650057ba96ccf468b322c65a5e16357823e593222037076054e7cc86953c118",
+        "size_in_bytes": 4975
+      },
+      {
+        "_path": "site-packages/unidecode/x0c4.py",
+        "path_type": "hardlink",
+        "sha256": "cf7c59c1291fe6bbb51427413073abe5fca097355dc8f85056d5a3abdc489ec4",
+        "sha256_in_prefix": "cf7c59c1291fe6bbb51427413073abe5fca097355dc8f85056d5a3abdc489ec4",
+        "size_in_bytes": 5024
+      },
+      {
+        "_path": "site-packages/unidecode/x0c5.py",
+        "path_type": "hardlink",
+        "sha256": "17e0d1d1e54c4647a63a73573ad0e32398ba816f75dfa5cb99633fc8c56f73ce",
+        "sha256_in_prefix": "17e0d1d1e54c4647a63a73573ad0e32398ba816f75dfa5cb99633fc8c56f73ce",
+        "size_in_bytes": 4581
+      },
+      {
+        "_path": "site-packages/unidecode/x0c6.py",
+        "path_type": "hardlink",
+        "sha256": "ee9fe332b1dfdd651aff300d9acf911953756c07ac86058b902d7afd57126b00",
+        "sha256_in_prefix": "ee9fe332b1dfdd651aff300d9acf911953756c07ac86058b902d7afd57126b00",
+        "size_in_bytes": 4490
+      },
+      {
+        "_path": "site-packages/unidecode/x0c7.py",
+        "path_type": "hardlink",
+        "sha256": "e5e380ab88c5b0f67ecca3bb947cc01a3fc4bd775a302e0ab9dee0bc4f81ed38",
+        "sha256_in_prefix": "e5e380ab88c5b0f67ecca3bb947cc01a3fc4bd775a302e0ab9dee0bc4f81ed38",
+        "size_in_bytes": 4564
+      },
+      {
+        "_path": "site-packages/unidecode/x0c8.py",
+        "path_type": "hardlink",
+        "sha256": "c25b4abe10609f9d6350bcf052711b9b20ee2bd26f42941e7b4b9328ae36fb6d",
+        "sha256_in_prefix": "c25b4abe10609f9d6350bcf052711b9b20ee2bd26f42941e7b4b9328ae36fb6d",
+        "size_in_bytes": 4733
+      },
+      {
+        "_path": "site-packages/unidecode/x0c9.py",
+        "path_type": "hardlink",
+        "sha256": "1a801138dd3bc02a07376c111dbe5fbf3a84f4bdd899eda129e722ca75080089",
+        "sha256_in_prefix": "1a801138dd3bc02a07376c111dbe5fbf3a84f4bdd899eda129e722ca75080089",
+        "size_in_bytes": 4722
+      },
+      {
+        "_path": "site-packages/unidecode/x0ca.py",
+        "path_type": "hardlink",
+        "sha256": "06c0594cd8f79e9224768dcbf694845fb5ef0d3ebc295ef016d38ec3211bd92a",
+        "sha256_in_prefix": "06c0594cd8f79e9224768dcbf694845fb5ef0d3ebc295ef016d38ec3211bd92a",
+        "size_in_bytes": 5007
+      },
+      {
+        "_path": "site-packages/unidecode/x0cb.py",
+        "path_type": "hardlink",
+        "sha256": "f13eef9c93119981b2c9262d84c5b3d1b80df8cade9a4b462268de8e874578ca",
+        "sha256_in_prefix": "f13eef9c93119981b2c9262d84c5b3d1b80df8cade9a4b462268de8e874578ca",
+        "size_in_bytes": 5012
+      },
+      {
+        "_path": "site-packages/unidecode/x0cc.py",
+        "path_type": "hardlink",
+        "sha256": "18aa0737ee2f2f863710be361b4c5b37be1382ca5ec35a0cbf142db086b77acb",
+        "sha256_in_prefix": "18aa0737ee2f2f863710be361b4c5b37be1382ca5ec35a0cbf142db086b77acb",
+        "size_in_bytes": 4749
+      },
+      {
+        "_path": "site-packages/unidecode/x0cd.py",
+        "path_type": "hardlink",
+        "sha256": "eec674e4e8ee81b6a899b3110d8395c60b2d65b5cc72e5f990716178abf85b61",
+        "sha256_in_prefix": "eec674e4e8ee81b6a899b3110d8395c60b2d65b5cc72e5f990716178abf85b61",
+        "size_in_bytes": 4738
+      },
+      {
+        "_path": "site-packages/unidecode/x0ce.py",
+        "path_type": "hardlink",
+        "sha256": "98e10716bb00c08bdc4e787b38a54ae6a6ee5d45c77c9391ec3e05b57b1099aa",
+        "sha256_in_prefix": "98e10716bb00c08bdc4e787b38a54ae6a6ee5d45c77c9391ec3e05b57b1099aa",
+        "size_in_bytes": 4708
+      },
+      {
+        "_path": "site-packages/unidecode/x0cf.py",
+        "path_type": "hardlink",
+        "sha256": "1fd3de61c6ce1baf05ff273bcec10b52e374e4035f14d3945fe7b7fa0cf1ecec",
+        "sha256_in_prefix": "1fd3de61c6ce1baf05ff273bcec10b52e374e4035f14d3945fe7b7fa0cf1ecec",
+        "size_in_bytes": 4713
+      },
+      {
+        "_path": "site-packages/unidecode/x0d0.py",
+        "path_type": "hardlink",
+        "sha256": "7942ea7061cf99aa04765d04c11079c164aef0ce376e9e07a05a3980696369c8",
+        "sha256_in_prefix": "7942ea7061cf99aa04765d04c11079c164aef0ce376e9e07a05a3980696369c8",
+        "size_in_bytes": 4706
+      },
+      {
+        "_path": "site-packages/unidecode/x0d1.py",
+        "path_type": "hardlink",
+        "sha256": "04294b0c08cf82c017e8c242b2e1df99fba11fda9fcd4cbfbdbf9df7306cdce7",
+        "sha256_in_prefix": "04294b0c08cf82c017e8c242b2e1df99fba11fda9fcd4cbfbdbf9df7306cdce7",
+        "size_in_bytes": 4767
+      },
+      {
+        "_path": "site-packages/unidecode/x0d2.py",
+        "path_type": "hardlink",
+        "sha256": "7bbe27a86a38138b05d6ccbca8116ed9e716a117c97685c8d7144544fa98133f",
+        "sha256_in_prefix": "7bbe27a86a38138b05d6ccbca8116ed9e716a117c97685c8d7144544fa98133f",
+        "size_in_bytes": 4724
+      },
+      {
+        "_path": "site-packages/unidecode/x0d3.py",
+        "path_type": "hardlink",
+        "sha256": "f3e526bc9dfe20b5e8f5ddc603e45e384e0e7d47a72f7b55509625759f601eed",
+        "sha256_in_prefix": "f3e526bc9dfe20b5e8f5ddc603e45e384e0e7d47a72f7b55509625759f601eed",
+        "size_in_bytes": 4705
+      },
+      {
+        "_path": "site-packages/unidecode/x0d4.py",
+        "path_type": "hardlink",
+        "sha256": "7f0526ce4b2875d4ca07c7c7dab64cc512b7a49b4baf185cad8a477c16ae0301",
+        "sha256_in_prefix": "7f0526ce4b2875d4ca07c7c7dab64cc512b7a49b4baf185cad8a477c16ae0301",
+        "size_in_bytes": 4758
+      },
+      {
+        "_path": "site-packages/unidecode/x0d5.py",
+        "path_type": "hardlink",
+        "sha256": "ac03522f99ddccb812818250344c39ec07d7a627117bba6f1d194a4cf6f8f904",
+        "sha256_in_prefix": "ac03522f99ddccb812818250344c39ec07d7a627117bba6f1d194a4cf6f8f904",
+        "size_in_bytes": 4680
+      },
+      {
+        "_path": "site-packages/unidecode/x0d6.py",
+        "path_type": "hardlink",
+        "sha256": "7d3f3f711ce9ef2eb4208867f3b90cf652de84a180839c1899f14ec201a9e9ed",
+        "sha256_in_prefix": "7d3f3f711ce9ef2eb4208867f3b90cf652de84a180839c1899f14ec201a9e9ed",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "site-packages/unidecode/x0d7.py",
+        "path_type": "hardlink",
+        "sha256": "d3363e2855272a4f82b98a5bd734988f741d4ba52c7d9fe5b1e98eb9149e0f03",
+        "sha256_in_prefix": "d3363e2855272a4f82b98a5bd734988f741d4ba52c7d9fe5b1e98eb9149e0f03",
+        "size_in_bytes": 4559
+      },
+      {
+        "_path": "site-packages/unidecode/x0f9.py",
+        "path_type": "hardlink",
+        "sha256": "d8f0f4fdfa439da14ef5fb480a36123a19e301f069a63b23d5370b22e6239c22",
+        "sha256_in_prefix": "d8f0f4fdfa439da14ef5fb480a36123a19e301f069a63b23d5370b22e6239c22",
+        "size_in_bytes": 4567
+      },
+      {
+        "_path": "site-packages/unidecode/x0fa.py",
+        "path_type": "hardlink",
+        "sha256": "e97f784b619b47a5cec24cf1d926329d9cc130701b4470bd1af5bfbd76930d15",
+        "sha256_in_prefix": "e97f784b619b47a5cec24cf1d926329d9cc130701b4470bd1af5bfbd76930d15",
+        "size_in_bytes": 4406
+      },
+      {
+        "_path": "site-packages/unidecode/x0fb.py",
+        "path_type": "hardlink",
+        "sha256": "a9a00ffef177ffe33efb02a4c9bd037c18c876718aba4e0640bc55edfa76fbfe",
+        "sha256_in_prefix": "a9a00ffef177ffe33efb02a4c9bd037c18c876718aba4e0640bc55edfa76fbfe",
+        "size_in_bytes": 3838
+      },
+      {
+        "_path": "site-packages/unidecode/x0fc.py",
+        "path_type": "hardlink",
+        "sha256": "29cc909f2bfb83135e55c02747042b9b836569b644dc2ae79ad2ea5e3ffbb5ef",
+        "sha256_in_prefix": "29cc909f2bfb83135e55c02747042b9b836569b644dc2ae79ad2ea5e3ffbb5ef",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "site-packages/unidecode/x0fd.py",
+        "path_type": "hardlink",
+        "sha256": "7ead4119ec62ef727740f5309cbe3f2d94f8ba1f26c58a8080c36da1f6df54a1",
+        "sha256_in_prefix": "7ead4119ec62ef727740f5309cbe3f2d94f8ba1f26c58a8080c36da1f6df54a1",
+        "size_in_bytes": 3764
+      },
+      {
+        "_path": "site-packages/unidecode/x0fe.py",
+        "path_type": "hardlink",
+        "sha256": "9a9b7e2be8ea937ea2a2e2f3e4739cb6139025cceab1c6bd6989041a127a5a4e",
+        "sha256_in_prefix": "9a9b7e2be8ea937ea2a2e2f3e4739cb6139025cceab1c6bd6989041a127a5a4e",
+        "size_in_bytes": 3825
+      },
+      {
+        "_path": "site-packages/unidecode/x0ff.py",
+        "path_type": "hardlink",
+        "sha256": "286137688749091fb790055a5cecae638e0cf8a7c203d510b7807d0251098aad",
+        "sha256_in_prefix": "286137688749091fb790055a5cecae638e0cf8a7c203d510b7807d0251098aad",
+        "size_in_bytes": 3983
+      },
+      {
+        "_path": "site-packages/unidecode/x1d4.py",
+        "path_type": "hardlink",
+        "sha256": "652ffb4c05fcee81ad4fb6fcb489567267870a1548359e16f6397dc00e897e65",
+        "sha256_in_prefix": "652ffb4c05fcee81ad4fb6fcb489567267870a1548359e16f6397dc00e897e65",
+        "size_in_bytes": 3839
+      },
+      {
+        "_path": "site-packages/unidecode/x1d5.py",
+        "path_type": "hardlink",
+        "sha256": "0ae8776d4ce8ca9f1cf2527b63f80b980290d375c7302b204d97f7b84dbe1b6a",
+        "sha256_in_prefix": "0ae8776d4ce8ca9f1cf2527b63f80b980290d375c7302b204d97f7b84dbe1b6a",
+        "size_in_bytes": 3839
+      },
+      {
+        "_path": "site-packages/unidecode/x1d6.py",
+        "path_type": "hardlink",
+        "sha256": "e9f21119314e0e1de4cacab5d17afff04986e8766e5b3b4b8ebe2f8ad924f0e4",
+        "sha256_in_prefix": "e9f21119314e0e1de4cacab5d17afff04986e8766e5b3b4b8ebe2f8ad924f0e4",
+        "size_in_bytes": 3974
+      },
+      {
+        "_path": "site-packages/unidecode/x1d7.py",
+        "path_type": "hardlink",
+        "sha256": "8c8b3da1904c6d2879390bcf8b2508e1a01d8e2f446f378e5e2813ab83aafe46",
+        "sha256_in_prefix": "8c8b3da1904c6d2879390bcf8b2508e1a01d8e2f446f378e5e2813ab83aafe46",
+        "size_in_bytes": 3645
+      },
+      {
+        "_path": "site-packages/unidecode/x1f1.py",
+        "path_type": "hardlink",
+        "sha256": "09c99eb455c3e57c6df59634c4a02341b7b5e9696af9871c5af27f7aa7737937",
+        "sha256_in_prefix": "09c99eb455c3e57c6df59634c4a02341b7b5e9696af9871c5af27f7aa7737937",
+        "size_in_bytes": 3937
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x000.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x001.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x002.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x003.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x004.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x005.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x006.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x007.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x009.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x00f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x010.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x011.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x012.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x013.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x014.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x015.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x016.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x017.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x018.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x01d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x01e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x01f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x020.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x021.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x022.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x023.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x024.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x025.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x026.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x027.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x028.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x029.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x02a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x02c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x02e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x02f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x030.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x031.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x032.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x033.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x04d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x04e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x04f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x050.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x051.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x052.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x053.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x054.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x055.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x056.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x057.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x058.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x059.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x05f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x060.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x061.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x062.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x063.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x064.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x065.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x066.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x067.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x068.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x069.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x06f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x070.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x071.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x072.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x073.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x074.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x075.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x076.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x077.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x078.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x079.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x07f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x080.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x081.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x082.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x083.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x084.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x085.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x086.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x087.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x088.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x089.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x08f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x090.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x091.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x092.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x093.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x094.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x095.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x096.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x097.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x098.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x099.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09a.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09b.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09c.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09e.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x09f.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0a0.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0a1.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0a2.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0a3.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0a4.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ac.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ad.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ae.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0af.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b0.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b1.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b2.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b3.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b4.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b5.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b6.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b7.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b8.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0b9.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ba.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0bb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0bc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0bd.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0be.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0bf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c0.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c1.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c2.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c3.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c4.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c5.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c6.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c7.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c8.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0c9.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ca.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0cb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0cc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0cd.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ce.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0cf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d0.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d1.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d2.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d3.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d4.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d5.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d6.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0d7.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0f9.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0fa.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0fb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0fc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0fd.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0fe.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x0ff.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x1d4.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x1d5.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x1d6.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x1d7.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/unidecode/__pycache__/x1f1.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/unidecode-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/unidecode.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "unidecode",
+  "sha256": "f2c96c13ab69b3c3df5053328ee6967a7326522630af40681ee56b19412f35bb",
+  "size": 158494,
+  "subdir": "noarch",
+  "timestamp": 1569351724438,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/unidecode-1.1.1-py_0.conda",
+  "version": "1.1.1"
+}
